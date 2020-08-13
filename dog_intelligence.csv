@@ -1,0 +1,137 @@
+Breed,Classification,percentage_obeying
+Border Collie,Brightest Dogs,0.95
+Poodle,Brightest Dogs,0.95
+German Shepherd,Brightest Dogs,0.95
+Golden Retriever,Brightest Dogs,0.95
+Doberman Pinscher,Brightest Dogs,0.95
+Shetland Sheepdog,Brightest Dogs,0.95
+Labrador Retriever,Brightest Dogs,0.95
+Papillon,Brightest Dogs,0.95
+Rottweiler,Brightest Dogs,0.95
+Australian Cattle Dog,Brightest Dogs,0.95
+Pembroke Welsh Corgi,Excellent Working Dogs,0.85
+Miniature Schnauzer,Excellent Working Dogs,0.85
+English Springer Spaniel,Excellent Working Dogs,0.85
+Belgian Shepherd Dog (Tervuren),Excellent Working Dogs,0.85
+Schipperke,Excellent Working Dogs,0.85
+Belgian Sheepdog,Excellent Working Dogs,0.85
+Collie,Excellent Working Dogs,0.85
+Keeshond,Excellent Working Dogs,0.85
+German Shorthaired Pointer,Excellent Working Dogs,0.85
+Flat-Coated Retriever,Excellent Working Dogs,0.85
+English Cocker Spaniel,Excellent Working Dogs,0.85
+Standard Schnauzer,Excellent Working Dogs,0.85
+Brittany,Excellent Working Dogs,0.85
+Cocker Spaniel,Excellent Working Dogs,0.85
+Weimaraner,Excellent Working Dogs,0.85
+Belgian Malinois,Excellent Working Dogs,0.85
+Bernese Mountain Dog,Excellent Working Dogs,0.85
+Pomeranian,Excellent Working Dogs,0.85
+Irish Water Spaniel,Excellent Working Dogs,0.85
+Vizsla,Excellent Working Dogs,0.85
+Cardigan Welsh Corgi,Excellent Working Dogs,0.85
+Chesapeake Bay Retriever,Above Average Working Dogs,0.70
+Puli,Above Average Working Dogs,0.70
+Yorkshire Terrier,Above Average Working Dogs,0.70
+Giant Schnauzer,Above Average Working Dogs,0.70
+Portuguese Water Dog,Above Average Working Dogs,0.70
+Airedale Terrier,Above Average Working Dogs,0.70
+Bouvier des Flandres,Above Average Working Dogs,0.70
+Border Terrier,Above Average Working Dogs,0.70
+Briard,Above Average Working Dogs,0.70
+Welsh Springer Spaniel,Above Average Working Dogs,0.70
+Manchester Terrier,Above Average Working Dogs,0.70
+Samoyed,Above Average Working Dogs,0.70
+Field Spaniel,Above Average Working Dogs,0.70
+Newfoundland,Above Average Working Dogs,0.70
+Australian Terrier,Above Average Working Dogs,0.70
+American Staffordshire Terrier,Above Average Working Dogs,0.70
+Gordon Setter,Above Average Working Dogs,0.70
+Bearded Collie,Above Average Working Dogs,0.70
+Cairn Terrier,Above Average Working Dogs,0.70
+Kerry Blue Terrier,Above Average Working Dogs,0.70
+Irish Setter,Above Average Working Dogs,0.70
+Norwegian Elkhound,Above Average Working Dogs,0.70
+Affenpinscher,Above Average Working Dogs,0.70
+Australian Silky Terrier,Above Average Working Dogs,0.70
+Miniature Pinscher,Above Average Working Dogs,0.70
+English Setter,Above Average Working Dogs,0.70
+Pharaoh Hound,Above Average Working Dogs,0.70
+Clumber Spaniel,Above Average Working Dogs,0.70
+Norwich Terrier,Above Average Working Dogs,0.70
+Dalmatian,Above Average Working Dogs,0.70
+Soft-coated Wheaten Terrier,Average Working/Obedience Intelligence,0.50
+Bedlington Terrier,Average Working/Obedience Intelligence,0.50
+Fox Terrier (Smooth),Average Working/Obedience Intelligence,0.50
+Curly Coated Retriever,Average Working/Obedience Intelligence,0.50
+Irish Wolfhound,Average Working/Obedience Intelligence,0.50
+Kuvasz,Average Working/Obedience Intelligence,0.50
+Australian Shepherd,Average Working/Obedience Intelligence,0.50
+Saluki,Average Working/Obedience Intelligence,0.50
+Finnish Spitz,Average Working/Obedience Intelligence,0.50
+Pointer,Average Working/Obedience Intelligence,0.50
+Cavalier King Charles Spaniel,Average Working/Obedience Intelligence,0.50
+German Wirehaired Pointer,Average Working/Obedience Intelligence,0.50
+Black and Tan Coonhound,Average Working/Obedience Intelligence,0.50
+American Water Spaniel,Average Working/Obedience Intelligence,0.50
+Siberian Husky,Average Working/Obedience Intelligence,0.50
+Bichon Frise,Average Working/Obedience Intelligence,0.50
+King Charles Spaniel,Average Working/Obedience Intelligence,0.50
+Tibetan Spaniel,Average Working/Obedience Intelligence,0.50
+English Foxhound,Average Working/Obedience Intelligence,0.50
+Otterhound,Average Working/Obedience Intelligence,0.50
+Jack Russell terrier,Average Working/Obedience Intelligence,0.50
+American Foxhound,Average Working/Obedience Intelligence,0.50
+Greyhound,Average Working/Obedience Intelligence,0.50
+Wirehaired Pointing Griffon,Average Working/Obedience Intelligence,0.50
+West Highland White Terrier,Average Working/Obedience Intelligence,0.50
+Havanese,Average Working/Obedience Intelligence,0.50
+Scottish Deerhound,Average Working/Obedience Intelligence,0.50
+Boxer,Average Working/Obedience Intelligence,0.50
+Great Dane,Average Working/Obedience Intelligence,0.50
+Dachshund,Average Working/Obedience Intelligence,0.50
+Shiba Inu,Average Working/Obedience Intelligence,0.50
+Staffordshire Bull Terrier,Average Working/Obedience Intelligence,0.50
+Alaskan Malamute,Average Working/Obedience Intelligence,0.50
+Whippet,Average Working/Obedience Intelligence,0.50
+Chinese Shar Pei,Average Working/Obedience Intelligence,0.50
+Wire Fox Terrier,Average Working/Obedience Intelligence,0.50
+Rhodesian Ridgeback,Average Working/Obedience Intelligence,0.50
+Ibizan Hound,Average Working/Obedience Intelligence,0.50
+Welsh Terrier,Average Working/Obedience Intelligence,0.50
+Irish Terrier,Average Working/Obedience Intelligence,0.50
+Boston Terrier,Average Working/Obedience Intelligence,0.50
+Akita,Average Working/Obedience Intelligence,0.50
+Skye Terrier,Fair Working/Obedience Intelligence,0.30
+Norfolk Terrier,Fair Working/Obedience Intelligence,0.30
+Sealyham Terrier,Fair Working/Obedience Intelligence,0.30
+Pug,Fair Working/Obedience Intelligence,0.30
+French Bulldog,Fair Working/Obedience Intelligence,0.30
+Griffon Bruxellois,Fair Working/Obedience Intelligence,0.30
+Maltese,Fair Working/Obedience Intelligence,0.30
+Italian Greyhound,Fair Working/Obedience Intelligence,0.30
+Chinese Crested,Fair Working/Obedience Intelligence,0.30
+Dandie Dinmont Terrier,Fair Working/Obedience Intelligence,0.30
+Petit Basset Griffon Vend̩en,Fair Working/Obedience Intelligence,0.30
+Tibetan Terrier,Fair Working/Obedience Intelligence,0.30
+Japanese Chin,Fair Working/Obedience Intelligence,0.30
+Lakeland Terrier,Fair Working/Obedience Intelligence,0.30
+Old English Sheepdog,Fair Working/Obedience Intelligence,0.30
+Great Pyrenees,Fair Working/Obedience Intelligence,0.30
+Scottish Terrier,Fair Working/Obedience Intelligence,0.30
+Saint Bernard,Fair Working/Obedience Intelligence,0.30
+Bull Terrier,Fair Working/Obedience Intelligence,0.30
+Chihuahua,Fair Working/Obedience Intelligence,0.30
+Lhasa Apso,Fair Working/Obedience Intelligence,0.30
+Bullmastiff,Fair Working/Obedience Intelligence,0.30
+Shih Tzu,Lowest Degree of Working/Obedience Intelligence ,
+Basset Hound,Lowest Degree of Working/Obedience Intelligence ,
+Mastiff,Lowest Degree of Working/Obedience Intelligence ,
+Beagle,Lowest Degree of Working/Obedience Intelligence ,
+Pekingese,Lowest Degree of Working/Obedience Intelligence ,
+Bloodhound,Lowest Degree of Working/Obedience Intelligence ,
+Borzoi,Lowest Degree of Working/Obedience Intelligence ,
+Chow Chow,Lowest Degree of Working/Obedience Intelligence ,
+Bulldog,Lowest Degree of Working/Obedience Intelligence ,
+Basenji,Lowest Degree of Working/Obedience Intelligence ,
+Afghan Hound,Lowest Degree of Working/Obedience Intelligence ,
